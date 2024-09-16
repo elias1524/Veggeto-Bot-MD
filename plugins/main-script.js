@@ -2,7 +2,7 @@ import moment from 'moment-timezone'
 import fetch from 'node-fetch'
 
 let handler = async (m, { conn, args }) => {
-let res = await fetch('https://api.github.com/repos/Dev-Diego/YaemoriBot-MD')
+let res = await fetch('https://api.github.com/repos/elias1524/Veggeto-Bot-MD')
 let json = await res.json()
 try {
 let txt = `*乂  S C R I P T  -  M A I N  乂*\n\n`
@@ -15,7 +15,7 @@ let txt = `*乂  S C R I P T  -  M A I N  乂*\n\n`
     txt += `✩  *Stars* : ${json.stargazers_count}\n\n`
     txt += `> *${dev}*`
 
-await conn.sendMessage(m.chat, {text: txt, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: 'YaemoriBot 🌱', newsletterJid: "120363263466636910@newsletter", }, externalAdReply: { title: packname, body: dev, thumbnailUrl: 'https://qu.ax/OlTj.jpg', sourceUrl: yt, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
+await conn.sendMessage(m.chat, {text: txt, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: '🔮ᴠᴇɢɢᴇᴛᴛᴏ-ʙᴏᴛ-ᴍᴅ🔮', newsletterJid: "120363276986902836@newsletter", }, externalAdReply: { title: packname, body: dev, thumbnailUrl: 'https://qu.ax/OlTj.jpg', sourceUrl: yt, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
 
 } catch {
 await m.react(error)
