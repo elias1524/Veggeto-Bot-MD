@@ -28,7 +28,7 @@ let tags = {
 }
 
 const defaultMenu = {
-  before: `© mᥱᥒᥙ ᥆𝖿іᥴіᥲᥣ ძᥱ ᥡᥲᥱm᥆rіᑲ᥆𝗍 ☁️
+  before: `𝘔𝘦𝘯𝘶 𝘰𝘧𝘪𝘤𝘪𝘢𝘭 𝘥𝘦 𝘝𝘦𝘨𝘨𝘦𝘵𝘰𝘉𝘰𝘵
 
 *. ⋅ᘛ⁐̤ᕐ⩺┈•༶ 🌸 :･ﾟ✧:･ﾟ✧･ﾟ✧*
 *. ⋅⊰ꕤ ┆* ⭔ 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐔𝐒𝐔𝐀𝐑𝐈𝐎
@@ -43,7 +43,7 @@ const defaultMenu = {
 *. ⋅ᘛ⁐̤ᕐ⩺┈•༶ 🌸 :･ﾟ✧:･ﾟ✧･ﾟ✧*
 *. ⋅⊰ꕤ ┆* ⭔ 𝐈𝐍𝐅𝐎 𝐃𝐄 𝐋𝐀 𝐁𝐎𝐓
 *. ⋅⊰ꕤ ┆* ・・・・・・・・・・・
-*. ⋅⊰ꕤ ┆* 👑 Creador: ⏤͟͟͞͞Dev-Diego
+*. ⋅⊰ꕤ ┆* 👑 Creador: ⏤͟͟͞͞𝙸𝚟𝚊𝚗
 *. ⋅⊰ꕤ ┆* 🪴 Modo: \`\`\`Publico\`\`\`
 *. ⋅⊰ꕤ ┆* 📚 Libreria: \`\`\`Baileys\`\`\`
 *. ⋅⊰ꕤ ┆* 🕖 Actividad: \`\`\`%muptime\`\`\`
@@ -161,7 +161,7 @@ await conn.reply(m.chat, '*Próximamente se remitirá el menú.*', fkontak, { co
 
 await m.react('🚀') 
 
-await conn.sendMessage(m.chat, {text: text, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: '© ᥡᥲᥱm᥆rіᑲ᥆𝗍 - ᥴһᥲᥒᥒᥱᥣ 🌱', newsletterJid: "120363263466636910@newsletter", }, externalAdReply: { title: '© ᥡᥲᥱm᥆rі ᑲ᥆𝗍 - mძ ⚡︎', body: dev, thumbnailUrl: 'https://qu.ax/OlTj.jpg', sourceUrl: redeshost, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
+await conn.sendMessage(m.chat, {text: text, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: '🔮ᴠᴇɢɢᴇᴛᴛᴏ-ʙᴏᴛ-ᴍᴅ🔮', newsletterJid: "120363276986902836@newsletter", }, externalAdReply: { title: '🔮ᴠᴇɢɢᴇᴛᴛᴏ-ʙᴏᴛ-ᴍᴅ🔮', body: dev, thumbnailUrl: 'https://qu.ax/OlTj.jpg', sourceUrl: redeshost, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
 
   } catch (e) {
     await m.react(error)
