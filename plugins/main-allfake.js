@@ -33,17 +33,17 @@ let user = global.db.data.users[who]
 let pushname = m.pushName || 'Sin nombre'
 
 //creador y otros
-global.creador = 'Wa.me/573012482597'
+global.creador = 'Wa.me/595972157130'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'https://wa.me/message/O4QPPHZOFDOJI1'
-global.namechannel = '© ᥡᥲᥱm᥆rіᑲ᥆𝗍 - ᥴһᥲᥒᥒᥱᥣ 🌱'
+global.namechannel = '🔮𝘝𝘦𝘨𝘨𝘦𝘵𝘵𝘰-𝘉𝘰𝘵-𝘔𝘋🔮'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de Ai Yaemori
+//Emojis determinado de Veggeto 
 global.emoji = '🚩'
 global.emoji2 = '🍟'
 global.emoji3 = '✨️'
@@ -57,20 +57,20 @@ global.waittt = '🚀 Cargando...'
 global.waitttt = '🚀 Cargando...'
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'  
-var canal2 = 'https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z'
-var git = 'https://github.com/Dev-Diego' 
-var youtube = 'https://www.youtube.com/@OfcDiego' 
-var github = 'https://github.com/Dev-Diego/YaemoriBot-MD' 
-var facebook = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' 
-var panel = 'https://ctrl.corinplus.com'
-var dash = 'https://dash.corinplus.com'
-var tienda = 'https://dash.corinplus.com/store'
-var status = 'https://status.corinplus.com'
-var discord = 'https://discord.com/invite/T7ksHu7mkz'
-var paypal = 'https://paypal.me/corinplus2024'
-let tiktok = 'https://tiktok.com/@theyaemoribot'
-let correo = 'theyaemoribot@gmail.com'
+var canal = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h'  
+var canal2 = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h'
+var git = 'https://github.com/elias1524' 
+var youtube = '' 
+var github = 'https://github.com/elias1524/Veggeto-Bot-MD' 
+var facebook = '' 
+var panel = ''
+var dash = ''
+var tienda = ''
+var status = ''
+var discord = ''
+var paypal = ''
+let tiktok = ''
+let correo = ''
 
 global.redes = [canal, canal2, git, youtube, github, facebook, panel, dash, tienda, status, discord, paypal, tiktok, correo].getRandom()
 
@@ -101,7 +101,7 @@ global.fkontak = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJ
 
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363263466636910@newsletter', newsletterName: '© ᥡᥲᥱm᥆rіᑲ᥆𝗍 - ᥴһᥲᥒᥒᥱᥣ 🌱', serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363276986902836@newsletter', newsletterName: '🔮𝘝𝘦𝘨𝘨𝘦𝘵𝘵𝘰-𝘉𝘰𝘵-𝘔𝘋🔮', serverMessageId: -1 }
 }}, { quoted: m }
 
 global.icono = [ 
@@ -111,6 +111,6 @@ global.icono = [
 'https://qu.ax/KGNB.jpg'
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363263466636910@newsletter", serverMessageId: 100, newsletterName: '© ᥡᥲᥱm᥆rіᑲ᥆𝗍 - ᥴһᥲᥒᥒᥱᥣ 🌱', }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363276986902836@newsletter", serverMessageId: 100, newsletterName: '🔮𝘝𝘦𝘨𝘨𝘦𝘵𝘵𝘰-𝘉𝘰𝘵-𝘔𝘋🔮', }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
 export default handler
