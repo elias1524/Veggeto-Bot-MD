@@ -1,6 +1,6 @@
 var handler = async (m, { conn, command, text }) => {
 
-if (!text) return conn.reply(m.chat, '🚩 *Ingrese el nombre de alguna persona*\n\nEjemplo, !personalidad Ai Yaemori', m, rcanal, )
+if (!text) return conn.reply(m.chat, '🚩 *Ingrese el nombre de alguna persona*\n\nEjemplo, !personalidad Veggeto', m, rcanal, )
 
 let personalidad = `> *Nombre* : ${text}
 > *Buena Moral* : ${pickRandom(['6%','12%','20%','27%','35%','41%','49%','54%','60%','66%','73%','78%','84%','92%','93%','94%','96%','98,3%','99,7%','99,9%','1%','2,9%','0%','0,4%'])}
