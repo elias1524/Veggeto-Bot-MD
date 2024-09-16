@@ -23,7 +23,7 @@ Veggeto += `│ 🍟 *Usuarios Registrados ∙* ${totalreg}\n`
 Veggeto += `│ 🍭 *Grupos Registrados ∙* ${totalchats}\n`
 Veggeto += `│ 🕜 *Actividad ∙* ${muptime}\n`
 Veggeto += `╰─⬣`
-await conn.sendFile(m.chat, pp, 'yaemori.jpg', Veggeto, fkontak, null, rcanal)
+await conn.sendFile(m.chat, pp, 'Veggeto.jpg', Veggeto, fkontak, null, rcanal)
 }
 handler.help = ['status']
 handler.tags = ['info']
