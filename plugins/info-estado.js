@@ -15,15 +15,15 @@ const chats = Object.entries(conn.chats).filter(([id, data]) => id && data.isCha
 const groupsIn = chats.filter(([id]) => id.endsWith('@g.us')) 
 const used = process.memoryUsage()
 let yaemori = `╭─⬣「 *Estado De Veggeto* 」⬣\n`
-yaemori += `│ 🚩 *Creador ∙* Ivan\n`
-yaemori += `│ 📚 *Grupos Unidos ∙* ${groupsIn.length}\n`
-yaemori += `│ 👤 *Chats Privados ∙* ${chats.length - groupsIn.length}\n`
-yaemori += `│ 💬 *Total De Chats ∙* ${chats.length}\n`
-yaemori += `│ 🍟 *Usuarios Registrados ∙* ${totalreg}\n`
-yaemori += `│ 🍭 *Grupos Registrados ∙* ${totalchats}\n`
-yaemori += `│ 🕜 *Actividad ∙* ${muptime}\n`
-yaemori += `╰─⬣`
-await conn.sendFile(m.chat, pp, 'yaemori.jpg', yaemori, fkontak, null, rcanal)
+Veggeto += `│ 🚩 *Creador ∙* Ivan\n`
+Veggeto += `│ 📚 *Grupos Unidos ∙* ${groupsIn.length}\n`
+Veggeto += `│ 👤 *Chats Privados ∙* ${chats.length - groupsIn.length}\n`
+Veggeto += `│ 💬 *Total De Chats ∙* ${chats.length}\n`
+Veggeto += `│ 🍟 *Usuarios Registrados ∙* ${totalreg}\n`
+Veggeto += `│ 🍭 *Grupos Registrados ∙* ${totalchats}\n`
+Veggeto += `│ 🕜 *Actividad ∙* ${muptime}\n`
+Veggeto += `╰─⬣`
+await conn.sendFile(m.chat, pp, 'yaemori.jpg', Veggeto, fkontak, null, rcanal)
 }
 handler.help = ['status']
 handler.tags = ['info']
