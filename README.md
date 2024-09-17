@@ -2,7 +2,6 @@
 ## `ESTE BOT FUE CREADO DESDE CERO`
 ----
 𝑷𝑹𝑶𝑷𝑰𝑬𝑻𝑨𝑹𝑰𝑶
-___
 
 [![elias1524](https://github.com/elias1524.png?size=100)](https://github.com/elias1524) 
 
