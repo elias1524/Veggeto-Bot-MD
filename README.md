@@ -52,13 +52,15 @@ npm start
 <a
 href="https://github.com/elias1524"><img
 src="https://github.com/elias1524.png" width="130" height="130" alt="elias1524"/></a>
-
+---------
 ### **`🌹 CREDITOS`**
 <a
 href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="130" height="130" alt="GataDios"/></a>
-
+---------
 ### **`✨AGRADECIMIENTOS✨`**
 <a
 href="https://github.com/Dev-Diego"><img src="https://github.com/Dev-Diego.png" width="130" height="130" alt="Diego"/></a>
-
+---------
 [© Powered By Sunlight Team ⚡︎](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z)
+---------
+<a href="https://github.com/elias1524"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=Vuelve+Pronto+%E2%9C%A8%EF%B8%8F;Gracias+Por+Visitar+Este+Repositorio+;Espero+Que+Te+Guste+Mucho+Este+Proyecto;D%C3%A9janos+Una+Estrella+%F0%9F%8C%9F" alt="Typing SVG" /></a>
