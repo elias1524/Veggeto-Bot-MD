@@ -35,7 +35,7 @@ npm update
 npm start
 ```
 
-- Después de eso te aparecerά un código **QR** lo escaneas con el Whatsapp web y listo
+- Después de eso te aparecerά opciónes como deseas vincular con **Qr** o **codigo de 8 digitos**
 
 ---------
 ## `ESTE BOT FUE CREADO DESDE CERO`
