@@ -11,6 +11,7 @@ src="https://github.com/elias1524.png" width="130" height="130" alt="elias1524"/
 href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="130" height="130" alt="GataDios"/></a>
 
 ### **`✨AGRADECIMIENTOS✨`**
+<a
 href="https://github.com/Dev-Diego"
 ><img src="https://github.com/Dev-Diego.png" width="130" height="130" alt="Diego"/></a>
 
