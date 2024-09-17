@@ -3,7 +3,7 @@
 ----
 ### **`𝑷𝑹𝑶𝑷𝑰𝑬𝑻𝑨𝑹𝑰𝑶`**
 <a
-href="https://github.com/GataNina-Li"><img
+href="https://github.com/elias1524"><img
 src="https://github.com/elias1524.png" width="130" height="130" alt="elias1524"/></a>
 
 ### **`🌹 CREDITOS`**
