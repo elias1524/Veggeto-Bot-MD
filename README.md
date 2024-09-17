@@ -2,7 +2,7 @@
 ## `ESTE BOT FUE CREADO DESDE CERO`
 ----
 ### **`𝑷𝑹𝑶𝑷𝑰𝑬𝑻𝑨𝑹𝑰𝑶`**
-href="https://github.com/elias1524"><img src="https://github.com/elias1524.png" width="130" height="130" alt="elias1524"/></a>
+src="https://github.com/elias1524.png" width="130" height="130" alt="elias1524"/></a>
 
 ### **`🌹 CREDITOS`**
 <a
