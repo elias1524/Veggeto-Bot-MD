@@ -1,3 +1,10 @@
+## **BIENVENIDOS AL REPO OFICIAL DE VEGGETTO-BOT-MD NO OLVIDES DE DEJAR TU ESTRELLITA GRACIAS POR VISITAR ESTE REPOSITORIO** 
+
+<p align="center">
+<img src="https://qu.ax/CRLF.jpg" alt="Veggeto-Bot-MD" width="900"/>
+</p>
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ---------
 
