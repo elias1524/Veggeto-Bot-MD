@@ -105,10 +105,10 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://qu.ax/EhQB.jpg',
-'https://qu.ax/AdwJ.jpg',
-'https://qu.ax/DYyJ.jpg',
-'https://qu.ax/KGNB.jpg'
+'https://qu.ax/cueh.jpg',
+'https://qu.ax/cueh.jpg',
+'https://qu.ax/cueh.jpg',
+'https://qu.ax/cueh.jpg'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363276986902836@newsletter", serverMessageId: 100, newsletterName: '🔮𝘝𝘦𝘨𝘨𝘦𝘵𝘵𝘰-𝘉𝘰𝘵-𝘔𝘋🔮', }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
