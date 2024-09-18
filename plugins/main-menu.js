@@ -161,7 +161,7 @@ await conn.reply(m.chat, '*Próximamente se remitirá el menú.*', fkontak, { co
 
 await m.react('🚀') 
 
-await conn.sendMessage(m.chat, {text: text, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: '🔮ᴠᴇɢɢᴇᴛᴛᴏ-ʙᴏᴛ-ᴍᴅ🔮', newsletterJid: "120363276986902836@newsletter", }, externalAdReply: { title: '🔮ᴠᴇɢɢᴇᴛᴛᴏ-ʙᴏᴛ-ᴍᴅ🔮', body: dev, thumbnailUrl: 'https://qu.ax/OlTj.jpg', sourceUrl: redeshost, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
+await conn.sendMessage(m.chat, {text: text, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: '🔮ᴠᴇɢɢᴇᴛᴛᴏ-ʙᴏᴛ-ᴍᴅ🔮', newsletterJid: "120363276986902836@newsletter", }, externalAdReply: { title: '🔮ᴠᴇɢɢᴇᴛᴛᴏ-ʙᴏᴛ-ᴍᴅ🔮', body: dev, thumbnailUrl: 'https://qu.ax/cueh.jpg', sourceUrl: redeshost, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
 
   } catch (e) {
     await m.react(error)
