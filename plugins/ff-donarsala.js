@@ -1,4 +1,3 @@
-let toM = a => '@' + a.split('@')[0]
 function handler(m, { groupMetadata }) {
 let psmap = groupMetadata.participants.filter(v => v !== conn.user.jid)
 psmap=psmap.filter(v => v.admin !=='superadmin')
