@@ -1,4 +1,4 @@
-function handler(m, { groupMetadata }) {
+function handler(m, { groupMetadata, participants }) {
 let psmap = groupMetadata.participants.filter(v => v !== conn.user.jid)
 psmap=psmap.filter(v => v.admin !=='superadmin')
 psmap=psmap.filter(v => v.admin !=='admin')
@@ -10,7 +10,7 @@ let user1 = psmap.getRandom()
 if (psmap == '') return conn.reply(m.chat, `😿 No se ha encontrado usuarios para un pvp`, m, fake)
 
 m.reply(`Hoy se dará pvp los usiarios: *${user(user0)},* Y *${user(1)}*`, null, {
-mentions: [user0, user]
+mentions: [user0, user1]
 })}
 handler.help = ['pvp']
 handler.tags = ['ff']
