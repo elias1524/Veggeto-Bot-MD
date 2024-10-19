@@ -41,8 +41,8 @@ global.packname = '✰ Veggetto-Bot-MD ✰'
 global.botname = '© Veggeto ᑲ᥆𝗍 - mძ'
 global.wm = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ veggetoᑲ᥆𝗍 ☄︎'
 global.author = 'ᥴrᥱᥲ𝗍ᥱძ ᑲᥡ Ivan ᰔᩚ'
-global.dev = '© Powered By Sunlight Team ⚡︎'
-global.textbot = 'VeggetoBot : ᥆𝖿ᥴivan 🚩'
+global.dev = '© Powered By Sixfin Team ⚡︎'
+global.textbot = 'VeggetoBot : Ivan ᥆𝖿ᥴ  🚩'
 global.vs = '2.0.6'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
