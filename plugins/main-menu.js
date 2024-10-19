@@ -28,8 +28,7 @@ let tags = {
 }
 
 const defaultMenu = {
-  before: `Menu oficial de Veggeto-Bot-MD`
-
+  before: `Menu oficial de Veggeto-Bot-MD
 *. ♡₊˚ 🦢・₊✧⋆⭒˚｡⋆♡₊˚ 🦢・₊✧⋆⭒˚｡⋆
 *. ʚɞ ┆* ʚɞ 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐔𝐒𝐔𝐀𝐑𝐈𝐎
 *. ʚɞ ┆* ・・・・・・・・・・・
