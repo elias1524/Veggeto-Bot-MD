@@ -156,7 +156,7 @@ const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ?
 
 const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://qu.ax/cueh.jpg')
 
-await conn.reply(m.chat, '*Próximamente se remitirá el menú.*', fkontak, { contextInfo:{ forwardingScore: 2022, isForwarded: true, externalAdReply: {title: packname, body: dev, sourceUrl: redeshost, thumbnail: await (await fetch(pp)).buffer() }}})
+await conn.reply(m.chat, '*Espere unos segundo soy lento ya lo estoy enviando*', fkontak, { contextInfo:{ forwardingScore: 2022, isForwarded: true, externalAdReply: {title: packname, body: dev, sourceUrl: redeshost, thumbnail: await (await fetch(pp)).buffer() }}})
 
 await m.react('🚀') 
 
